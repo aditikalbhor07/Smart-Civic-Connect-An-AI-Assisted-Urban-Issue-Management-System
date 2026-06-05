@@ -41,7 +41,7 @@ Authorities can:
 
 ## Team Members
 
-- Aditi
-- Pratibha
-- Priyanka
-- Utkarsh
+- Aditi Kalbhor
+- Pratibha Kengar
+- Priyanka Sahoo
+- Utkarsh Yadav
